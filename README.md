@@ -1,2 +1,2 @@
 # CS-470-H7246_Full_Stack_Development_II
-This repository contains artifacts concerning the migration of a containerized application to an S3 bucket in an AWS cloud. Included is a video link to a PowerPoint presentation regarding cloud development.
+This repository contains artifacts concerning the migration of a containerized application to an S3 bucket in an AWS cloud. Included is a video link to a PowerPoint presentation regarding cloud development. The lafs-web and lafs-api folders contain the docker-compose.yml files used in the containerization. Due to the nature of cloud services and the security features that create unique IDs, it would be both redundant and a security risk to post any of the AWS code to GitHub.
